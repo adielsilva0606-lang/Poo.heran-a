@@ -24,3 +24,5 @@ pessoa1.apresentacao()
 estudante1 = Estudante("Adiel", 17, "2º")
 estudante1.apresentacao()
 estudante1.grade()
+estudante2 = Estudante("João", 16, "1º")
+

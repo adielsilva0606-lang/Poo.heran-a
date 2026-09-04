@@ -1,0 +1,18 @@
+class cachorro:
+    def falar(self):
+        print("Au Au!")
+    
+class gato:
+    def falar(self):
+        print("Miau Miau")
+        
+class passaro:
+    def falar(self):
+        print("Piu Piu")
+      
+def som_animal(animal):
+            animal.falar()
+            
+            
+    
+som_animal(cachorro())
